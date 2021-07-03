@@ -1,0 +1,15 @@
+*.ss~
+*.ss#*
+.#*.ss
+
+*.scm~
+*.scm#*
+.#*.scm
+projectile-bookmarks.eld
+auto-save-list
+README.el
+elpa
+recentf
+emojis
+custom.el
+resources
